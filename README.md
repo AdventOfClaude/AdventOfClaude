@@ -1,5 +1,7 @@
 # Advent of Claude
 
+[@Eldeeqq](https://github.com/Eldeeqq) + [@MatejBabis](https://github.com/MatejBabis)
+
 ## Claude web interface chat export
 
 1. Navigate to claude.ai.
